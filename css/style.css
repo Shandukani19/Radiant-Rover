@@ -226,6 +226,16 @@
     background-size: cover;
 }
 
+
+.about-paragraph{
+  line-height: 1.5;
+  background-color: #f9f8f6;
+  padding: 40px;
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+
 /*** Services Start ***/
 .services .services-item {
     transition: 0.5s;
@@ -377,7 +387,7 @@
 
 /*** Appointment  Start ***/
 .appointment {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/appointment-background.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/radiance/header.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
