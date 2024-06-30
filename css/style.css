@@ -211,10 +211,11 @@
 }
 
 #carouselId .carousel-indicators li.active {
-    background: var(--bs-primary);
-    border-color: var(--bs-primary);
-    border-right: 15px solid var(--bs-primary);
-    border-left: 15px solid var(--bs-primary);
+    background: #910A67;
+    background: #910A67;
+    border-color: #910A67;
+    border-right: 15px solid #910A67;
+    border-left: 15px solid #910A67;
 }
 /*** Carousel End ***/
 
